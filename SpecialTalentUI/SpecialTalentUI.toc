@@ -1,0 +1,13 @@
+## Interface: 20400
+## Title: SpecialTalentUI
+## Title-koKR: SpecialTalentUI
+## Notes: Improved Talent Frame. You can see and interact with all three talent trees at once. Summary of your learned and planned talent points at the top. Plan your alts' templates.
+## Notes-koKR: 특성 도우미 (한글화 가로나섭 나엘드루 락순이)
+## X-Website: http://sagez.net/amuseum/wow/addons.html#talent
+## X-Email: den@sagez.net
+## DefaultState: Enabled
+## LoadOnDemand: 1
+## SavedVariables: SpecialTalentPlannedSaved SpecialTalentFrameSaved SpecialTalentLearnedSaved
+SpecialTalentData.lua
+localization.lua
+SpecialTalentUI.xml
